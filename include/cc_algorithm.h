@@ -14,3 +14,4 @@ extern char* cc_decode(int key, const char* string);
 /* ================================================================ */
 
 #endif /* cc_algorithm_h */
+
